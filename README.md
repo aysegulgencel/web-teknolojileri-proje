@@ -10,7 +10,7 @@
 ## Ana sayfa : 
 ### Giriş sayfası niteliğindedir.
 ## Hakkımda :
-### Giriş sayfası niteliğindedir. Proje sahibinin kendini tanıtan bilgileri içerir. Hobileri, sevdiği sporlar, resimler vb. içerir.
+### Giriş sayfası niteliğindedir. Proje sahibinin kendini tanıtan bilgileri içerir. Hobileri, sevdiği sporlar, resimler vb. bilgileri içerir.
 ## Eğitim :
 ### Proje sahibinin eğitim bilgilerini içeren CV niteliğinde özgeçmiş sayfasını içerir.
 ## Şehrim:
