@@ -1,0 +1,209 @@
+.resimSlider {
+    height: 600px;
+}
+
+body {
+    padding-top: 50px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.container {
+    widht: 96%;
+    max-width: 1500px;
+}
+
+.iframe-container {
+    position: relative;
+    widht: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.iframe-container iframe {
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+
+}
+
+.index {
+    background-color: #f2f2f2;
+}
+
+
+
+h4 {
+    margin-top: 20px;
+
+}
+
+p {
+    margin-top: 5px;
+}
+
+
+
+h3 {
+    margin-top: 20px;
+
+}
+
+.sehrim {
+    background-color: #f2f2f2;
+}
+
+.sehrim h3 span {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.ilgialanlarim {
+    background-color: #f2f2f2;
+}
+
+.mirasimiz {
+    background-color: #f2f2f2;
+}
+
+.iletisim {
+    background-color: #f2f2f2;
+}
+
+.ozgecmis {
+    background-color: #f2f2f2;
+}
+
+.img {
+
+    max-width: 100%;
+    height: auto;
+}
+
+
+/*girisyap başlangıç*/
+.girisyap {
+
+    text-align: center;
+    background-color: #f2f2f2;
+    margin: auto;
+    width: 350px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    padding: 40px;
+
+}
+
+
+
+.girisyap h2 {
+    margin: 0 0 20px;
+    padding: 0;
+    font-size: 30px;
+    text-transform: uppercase;
+
+}
+
+.girisyap .pc {
+
+    position: relative;
+    width: %100;
+    margin-bottom: 25px;
+
+}
+
+.girisyap .pc input {
+
+    height: 50px;
+    width: %100;
+    margin-bottom: 25px;
+    padding: 0 20px;
+    box-sizing: border-box;
+    font-size: 18px;
+    outline: none;
+    border: 1px solid #000;
+}
+
+.girisyap .pc span {
+
+    position: absolute;
+    top: 12px;
+    left: 20px;
+    padding: 0;
+    transition: 0.5px;
+    pointer-events: none;
+    background: #fff;
+    text-transform: uppercase;
+
+}
+
+.girisyap .pc input:focus ~ span,
+.girisyap .pc input:valid ~ span {
+    top: -12px;
+    left: 12px;
+    font-size: 12px;
+    padding: 2px;
+    border: 1px solid #000;
+    background: #ff0;
+
+}
+
+.girisyap .pc input[type="submit"] {
+
+    background: #ff0;
+    border: none;
+    box-shadow: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+
+.girisyap a {
+    color: #262626;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    color: #666;
+}
+
+.girisyap a span {
+
+    color: #262626;
+    font-weight: 600;
+
+}
+
+/*girisyap bitiş*/
+
+.ayrac {
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+
+.igri {
+    color: #343a40;
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+
+}
+
+
+
+.ibeyaz {
+    color: #343a40;
+    position: relative;
+    top: -50px;
+    font-size: 30px;
+    border: 10px solid white;
+    background-color: white;
+
+}
